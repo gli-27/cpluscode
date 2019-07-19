@@ -7,4 +7,4 @@ This code implementation does not take platform compatible problems into conside
 
 Sample code for exercise problem talked about during the textbook, if there is any question or bug or any wrong implementation, please let me know, my email address:gli27@ur.rochester.edu.
 
-# Not finish yer and Continue updating.
+# Not finish yet and Continue updating.
