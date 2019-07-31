@@ -8,8 +8,21 @@
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+using std::cin;
+using std::cout;
+using std::string;
+using std::endl;
+
+int main(){
+    string line;
+    cout << "Read a line." << endl;
+    getline(cin, line);
+    cout << line << endl;
+    
+    string word;
+    cout << "Read a word." << endl;
+    cin >> word;
+    cout << word << endl;
+    
     return 0;
 }
